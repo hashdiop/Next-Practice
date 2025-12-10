@@ -6,7 +6,7 @@ const LandingPage = () => {
       <div className="max-w-2xl text-center">
         {/* Logo ou Initiales */}
         <div className="mb-8">
-          <div className="w-20 h-20 bg-blue-900 text-black rounded-full flex items-center justify-center text-3xl font-semibold mx-auto p-12">
+          <div className="w-20 h-20 bg-blue-900 text-black rounded-full flex items-center justify-center text-3xl font-semibold mx-auto p-16 border-4">
             C.H.D.
           </div>
         </div>
